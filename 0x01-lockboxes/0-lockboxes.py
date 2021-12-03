@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 """
 this module contains a method that determines if all the boxes can be opened
 """
